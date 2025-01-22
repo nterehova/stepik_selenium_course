@@ -1,4 +1,6 @@
 # stepik_selenium_course
-Homework for selenium on python
+### Hello, dear colleague!
 
-I'm planning to store tests for https://stepik.org/ selenium course.
+This is a place for homework for selenium via python from https://stepik.org/.
+
+Have fun.
